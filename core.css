@@ -1,0 +1,38 @@
+body {
+	padding-top: 50px;
+	background-color: rgb(185, 181, 249);
+	color: black;
+}
+
+a.navbar-brand {
+	font-weight: 800;
+	font-family: museo-slab, Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB",
+		"Hiragino Sans GB W3", "Microsoft YaHei UI", "Microsoft YaHei",
+		"WenQuanYi Micro Hei", sans-serif;
+}
+
+.widget {
+	margin-bottom: 30px;
+}
+
+.rp {
+	border-bottom: 1px solid #9B90A7;
+	margin-bottom: 20px;
+}
+
+.rp .foot a span {
+	margin-right: 2px;
+}
+
+.rp .body {
+	margin-left: 10px;
+}
+p img{
+	max-width:80%;
+}
+
